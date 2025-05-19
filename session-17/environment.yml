@@ -1,0 +1,4 @@
+name: student-class-env
+dependencies:
+  - python=3.10
+  - pytest
