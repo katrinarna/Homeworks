@@ -1,0 +1,6 @@
+name: asteroids-env
+dependencies:
+  - python=3.10
+  - requests
+  - pandas
+  - pytest
