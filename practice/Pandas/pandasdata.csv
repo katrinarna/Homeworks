@@ -1,0 +1,6 @@
+Email,Name,Age,Major,Grade,Passed,Performance,Age_Group
+katrin@ie.edu,Katrín,19.0,Math,100.0,True,High,Teen
+armando@gmail.com,Armando,21.0,Computer Science,88.0,False,Mid,Young Adult
+missing@email.com,Luna,20.0,Physics,91.0,True,High,Young Adult
+carlos@ie.edu,Carlos,23.0,Computer Science,,False,Low,Adult
+missing@email.com,,22.0,Physics,87.0,False,Mid,Young Adult
